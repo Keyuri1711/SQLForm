@@ -1,0 +1,17 @@
+C:\Users\keyur\Desktop\multitierprojectfinal\finalprojectmulti-tier\finalprojectmulti-tier\bin\Debug\finalprojectmulti-tier.exe.config
+C:\Users\keyur\Desktop\multitierprojectfinal\finalprojectmulti-tier\finalprojectmulti-tier\bin\Debug\finalprojectmulti-tier.exe
+C:\Users\keyur\Desktop\multitierprojectfinal\finalprojectmulti-tier\finalprojectmulti-tier\bin\Debug\finalprojectmulti-tier.pdb
+C:\Users\keyur\Desktop\multitierprojectfinal\finalprojectmulti-tier\finalprojectmulti-tier\bin\Debug\EntityFramework.dll
+C:\Users\keyur\Desktop\multitierprojectfinal\finalprojectmulti-tier\finalprojectmulti-tier\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\keyur\Desktop\multitierprojectfinal\finalprojectmulti-tier\finalprojectmulti-tier\bin\Debug\EntityFramework.xml
+C:\Users\keyur\Desktop\multitierprojectfinal\finalprojectmulti-tier\finalprojectmulti-tier\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\keyur\Desktop\multitierprojectfinal\finalprojectmulti-tier\finalprojectmulti-tier\obj\Debug\finalprojectmulti-tier.csproj.AssemblyReference.cache
+C:\Users\keyur\Desktop\multitierprojectfinal\finalprojectmulti-tier\finalprojectmulti-tier\obj\Debug\finalprojectmulti-tier.csproj.SuggestedBindingRedirects.cache
+C:\Users\keyur\Desktop\multitierprojectfinal\finalprojectmulti-tier\finalprojectmulti-tier\obj\Debug\finalprojectmulti_tier.LogInForm.resources
+C:\Users\keyur\Desktop\multitierprojectfinal\finalprojectmulti-tier\finalprojectmulti-tier\obj\Debug\finalprojectmulti_tier.Properties.Resources.resources
+C:\Users\keyur\Desktop\multitierprojectfinal\finalprojectmulti-tier\finalprojectmulti-tier\obj\Debug\finalprojectmulti-tier.csproj.GenerateResource.cache
+C:\Users\keyur\Desktop\multitierprojectfinal\finalprojectmulti-tier\finalprojectmulti-tier\obj\Debug\finalprojectmulti-tier.csproj.CoreCompileInputs.cache
+C:\Users\keyur\Desktop\multitierprojectfinal\finalprojectmulti-tier\finalprojectmulti-tier\obj\Debug\finalprojectmulti-tier.csproj.CopyComplete
+C:\Users\keyur\Desktop\multitierprojectfinal\finalprojectmulti-tier\finalprojectmulti-tier\obj\Debug\finalprojectmulti-tier.exe
+C:\Users\keyur\Desktop\multitierprojectfinal\finalprojectmulti-tier\finalprojectmulti-tier\obj\Debug\finalprojectmulti-tier.pdb
+C:\Users\keyur\Desktop\multitierprojectfinal\finalprojectmulti-tier\finalprojectmulti-tier\obj\Debug\finalprojectmulti_tier.CourseAssignmentForm.resources

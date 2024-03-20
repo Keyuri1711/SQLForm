@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2f4bde9e39cd490385d13f82e253725a" Name="Diagram1">
+        <EntityTypeShape EntityType="TeacherCourseDB.mdfModel.Cours" Width="1.5" PointX="0.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeacherCourseDB.mdfModel.Registration" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeacherCourseDB.mdfModel.Teacher" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeacherCourseDB.mdfModel.User" Width="1.5" PointX="2.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TeacherCourseDB.mdfModel.SysDiagram" Width="1.5" PointX="4.75" PointY="4.75" IsExpanded="true" />
+        <AssociationConnector Association="TeacherCourseDB.mdfModel.FK_Courses_Courses" ManuallyRouted="false" />
+        <AssociationConnector Association="TeacherCourseDB.mdfModel.FK_Registration_Courses" ManuallyRouted="false" />
+        <AssociationConnector Association="TeacherCourseDB.mdfModel.FK_Registration_Registration" ManuallyRouted="false" />
+        <AssociationConnector Association="TeacherCourseDB.mdfModel.FK_Teachers_Teachers" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
